@@ -19,6 +19,9 @@ body {
     margin: -50px;
     animation: pulse 1.5s infinite;
 }
+.container ,highlight{
+    color: white;
+}
 .heart::before,
 .heart::after {
     content: "";
